@@ -227,6 +227,12 @@ $ skaffold dev --port-forward
 
 
 
+## Monitering
+
+![image-20210319151601439](img/Untitled 9)
+
+
+
 # 참고 사이트
 
 - [Istio document](https://istio.io/latest/docs/concepts/what-is-istio/)
