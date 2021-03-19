@@ -229,7 +229,7 @@ $ skaffold dev --port-forward
 
 ## Monitering
 
-![image-20210319151601439](img/Untitled 9)
+![image-20210319151601439](img/Untitled 9.png)
 
 
 
